@@ -1,0 +1,41 @@
+{
+    "name": "DiGBLeS",
+    "description": "Custom dark theme with background image",
+    "version": "1.0.0",
+    "authors": [{ "name": "け" }],
+    "background": {
+        "url": "https://i.imgur.com/DiGBLeS.png",
+        "blur": 0,
+        "alpha": 0.85
+    },
+    "theme_color_map": {
+        "BACKGROUND_PRIMARY": ["rgba(0, 0, 0, 0.6)", "#ffffff"],
+        "BACKGROUND_SECONDARY": ["rgba(0, 0, 0, 0.75)", "#f2f2f2"],
+        "BACKGROUND_TERTIARY": ["rgba(0, 0, 0, 0.85)", "#e0e0e0"],
+        "BACKGROUND_ACCENT": ["rgba(0, 0, 0, 0.9)", "#cccccc"],
+        "BACKGROUND_FLOATING": ["rgba(15, 15, 15, 0.95)", "#ffffff"],
+        "TEXT_NORMAL": ["#e8e8e8", "#000000"],
+        "TEXT_MUTED": ["#888888", "#666666"],
+        "TEXT_LINK": ["#7289da", "#7289da"],
+        "INTERACTIVE_NORMAL": ["#b0b0b0", "#555555"],
+        "INTERACTIVE_ACTIVE": ["#ffffff", "#000000"],
+        "INTERACTIVE_MUTED": ["#555555", "#999999"],
+        "CHANNELTEXTAREA_BACKGROUND": ["rgba(0, 0, 0, 0.7)", "#f0f0f0"],
+        "BACKGROUND_SECONDARY_ALT": ["rgba(0, 0, 0, 0.8)", "#e8e8e8"],
+        "BACKGROUND_MOBILE_PRIMARY": ["rgba(0, 0, 0, 0.6)", "#ffffff"],
+        "BACKGROUND_MOBILE_SECONDARY": ["rgba(0, 0, 0, 0.75)", "#f2f2f2"]
+    },
+    "colours": {
+        "PRIMARY_DARK_100": "#ffffff",
+        "PRIMARY_DARK_300": "#b0b0b0",
+        "PRIMARY_DARK_360": "#888888",
+        "PRIMARY_DARK_400": "#666666",
+        "PRIMARY_DARK_500": "#444444",
+        "PRIMARY_DARK_630": "#222222",
+        "PRIMARY_DARK_700": "#111111",
+        "PRIMARY_DARK_800": "#0a0a0a"
+    },
+    "unsafe_colors": {
+        "CHAT_GREY": "#0a0a0a"
+    }
+}
